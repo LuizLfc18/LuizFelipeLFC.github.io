@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="css/bootstrap.css" rel="stylesheet">
     </head>
-    <body>
+    <body background = "imagens/img.jpg">
       <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
