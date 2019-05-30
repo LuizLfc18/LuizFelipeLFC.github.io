@@ -35,3 +35,27 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/bootstrap.css" rel="stylesheet">
+    </head>
+    <body>
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="imagens/img.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+</body>
+</html>
